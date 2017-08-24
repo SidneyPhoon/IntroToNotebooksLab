@@ -8,12 +8,13 @@ There are 2 notebooks to work through in this exercise.
 - Create a **Project** in DSX Cloud and name it *IntroToNotebooks*
 
 - Within the *IntroToNotebooks* project, **add a Notebook** and choose to import it from this **URL**: 
-  https://github.com/yfphoon/IntroToNotebooks/blob/master/Predict%20Customer%20Churn%20-%20Build%20Model.ipynb
+https://github.com/SidneyPhoon/IntroToNotebooksLab/blob/master/Predict%20Customer%20Churn%20-%20Build%20Model.ipynb
+
   
   ![Add a notebook](images/create_notebook_URL.png?raw=true)
   
 - Work through the "*Predict Customer Churn - Build Model*" notebook
-- Add the "*Predict Churn - Score New Data*" notebook into your *IntroToNotebooks* project and work through the notebook.  The **URL** is https://github.com/yfphoon/IntroToNotebooks/blob/master/Predict%20Churn%20-%20Score%20New%20Data.ipynb
+- Add the "*Predict Churn - Score New Data*" notebook into your *IntroToNotebooks* project and work through the notebook.  The **URL** is https://github.com/SidneyPhoon/IntroToNotebooksLab/blob/master/Predict%20Churn%20-%20Score%20New%20Data.ipynb
 <br/>
 
 ### Optional Lab Exercises
