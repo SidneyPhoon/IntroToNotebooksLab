@@ -21,16 +21,16 @@ https://github.com/SidneyPhoon/IntroToNotebooksLab/blob/master/PredictCustomerCh
 
 #### 1. Access data in flat files
 - Download ![churn.csv](data/churn.csv?raw=true) and ![customer.csv](data/customer.csv?raw=true), and add them into the *IntroToNotebooks* project
-- Create a duplicate of the "*Predict Customer Churn - Build Model*" notebook
+- Create a duplicate of the "*PredictCustomerChurnStudent_Learn*" notebook
 
 ![Duplicate a notebook](images/duplicate_notebook.png?raw=true)
 
-- Edit the "*Predict Customer Churn - Build Model copy 1*" notebook to read the data from the flat files
+- Edit the "*PredictCustomerChurnStudent_Learn copy 1*" notebook to read the data from the flat files
 - **Tip**: make sure *inferSchema* is set to 'true' when reading in the csv files, otherwise, all columns will be treated as String values.
 
 ![infer schema](images/infer_schema.png?raw=true)
 
 #### 2. Build a LogisticRegression model
-- Create a duplicate of the "*Predict Customer Churn - Build Model*" notebook
-- Edit the "*Predict Customer Churn - Build Model copy 2*" notebook
+- Create a duplicate of the "*PredictCustomerChurnStudent_Learn*" notebook
+- Edit the "*PredictCustomerChurnStudent_Learn copy 2*" notebook
 - In "*Step 6: Build the Spark pipeline and the Random Forest model*", edit the code to build a LogisticRegression Model
