@@ -13,7 +13,7 @@ https://github.com/SidneyPhoon/IntroToNotebooksLab/blob/master/PredictCustomerCh
   
   ![Add a notebook](images/create_notebook_URL.png?raw=true)
   
-- Work through the "*Predict Customer Churn - Build Model*" notebook
+- Work through the "*PredictCustomerChurnStudent_Learn*" notebook
 - Add the "*Predict Churn - Score New Data*" notebook into your *IntroToNotebooks* project and work through the notebook.  The **URL** is https://github.com/SidneyPhoon/IntroToNotebooksLab/blob/master/Predict%20Churn%20-%20Score%20New%20Data.ipynb
 <br/>
 
