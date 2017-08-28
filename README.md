@@ -2,7 +2,7 @@
 This repository contains data and analytic assets for the Lab. The Jupyter Notebook is designed to run on 
 <a href="https://datascience.ibm.com" target="_blank">IBM Data Science Experience</a> and analyzes the churn.csv and customer.csv data sets.
 
-In this exercise, there are 3 notebooks to work through, 2 are required and 1 optional.
+In this exercise, there are 3 notebooks to work through, 2 required and 1 optional.
 
 ### Getting Started
 - Create a **Project** in DSX Cloud and name it *IntroToNotebooks*
@@ -32,5 +32,5 @@ https://github.com/SidneyPhoon/IntroToNotebooksLab/blob/master/PredictCustomerCh
 
 #### 2. Inject a new transformer and building a LogisticRegression model
 - Add the "*PredictCustomerChurnStudent_Practice*" notebook into your *IntroToNotebooks* project and work through the notebook.  The **URL** is https://github.com/SidneyPhoon/IntroToNotebooksLab/blob/master/PredictCustomerChurnStudent_Practice.ipynb
-<br/>
+
 - Follow the instructions in the notebook and work through it.
