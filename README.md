@@ -30,7 +30,7 @@ https://github.com/SidneyPhoon/IntroToNotebooksLab/blob/master/PredictCustomerCh
 
 ![infer schema](images/infer_schema.png?raw=true)
 
-#### 2. Build a LogisticRegression model
-- Create a duplicate of the "*PredictCustomerChurnStudent_Learn*" notebook
-- Edit the "*PredictCustomerChurnStudent_Learn copy 2*" notebook
-- In "*Step 6: Build the Spark pipeline and the Random Forest model*", edit the code to build a LogisticRegression Model
+#### 2. Inject a new transformer and building a LogisticRegression model
+- Add the "*PredictCustomerChurnStudent_Practice*" notebook into your *IntroToNotebooks* project and work through the notebook.  The **URL** is https://github.com/SidneyPhoon/IntroToNotebooksLab/blob/master/PredictCustomerChurnStudent_Practice.ipynb
+<br/>
+- Follow the instructions in the notebook and work through it.
