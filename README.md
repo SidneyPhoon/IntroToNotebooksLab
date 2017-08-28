@@ -8,7 +8,7 @@ There are 2 notebooks to work through in this exercise.
 - Create a **Project** in DSX Cloud and name it *IntroToNotebooks*
 
 - Within the *IntroToNotebooks* project, **add a Notebook** and choose to import it from this **URL**: 
-https://github.com/SidneyPhoon/IntroToNotebooksLab/blob/master/Predict%20Customer%20Churn%20-%20Build%20Model.ipynb
+https://github.com/SidneyPhoon/IntroToNotebooksLab/blob/master/PredictCustomerChurnStudent_Learn.ipynb
 
   
   ![Add a notebook](images/create_notebook_URL.png?raw=true)
