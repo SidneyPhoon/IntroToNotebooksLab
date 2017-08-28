@@ -2,7 +2,7 @@
 This repository contains data and analytic assets for the Lab. The Jupyter Notebook is designed to run on 
 <a href="https://datascience.ibm.com" target="_blank">IBM Data Science Experience</a> and analyzes the churn.csv and customer.csv data sets.
 
-There are 2 notebooks to work through in this exercise.
+In this exercise, there are 3 notebooks to work through, 2 are required and 1 optional.
 
 ### Getting Started
 - Create a **Project** in DSX Cloud and name it *IntroToNotebooks*
