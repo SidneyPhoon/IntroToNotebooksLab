@@ -5,7 +5,7 @@ This repository contains data and analytic assets for the Lab. The Jupyter Noteb
 In this exercise, there are 3 notebooks to work through, 2 required and 1 optional.
 
 ### Getting Started
-- Create a **Project** in DSX Cloud and name it *IntroToNotebooks*
+- Create a **Project** in DSX Cloud and name it *IntroToNotebooks*.  Select "Object Storage (Swift API)" Storage Type.
 
 - Within the *IntroToNotebooks* project, **add a Notebook** and choose to import it from this **URL**: 
 https://github.com/SidneyPhoon/IntroToNotebooksLab/blob/master/PredictCustomerChurnStudent_Learn.ipynb
